@@ -1,0 +1,7 @@
+codecov.yml
+.github/*
+^.*\.Rproj$
+^\.Rproj\.user$
+cran-comments.md
+tests/testthat/test_torch.R
+NEWS.md
