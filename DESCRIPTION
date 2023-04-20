@@ -1,8 +1,8 @@
 Package: gKRLS
 Type: Package
 Title: Generalized Kernel Regularized Least Squares
-Version: 1.0.1
-Date: 2023-4-13
+Version: 1.0.2
+Date: 2023-4-17
 Encoding: UTF-8
 Authors@R: c(
   person("Qing", "Chang", role = c("aut"), email = "qic47@pitt.edu"),
@@ -25,9 +25,9 @@ RoxygenNote: 7.2.3
 NeedsCompilation: yes
 URL: https://github.com/mgoplerud/gKRLS
 BugReports: https://github.com/mgoplerud/gKRLS/issues
-Packaged: 2023-04-14 19:59:14 UTC; MHG23
+Packaged: 2023-04-19 20:11:46 UTC; MHG23
 Author: Qing Chang [aut],
   Max Goplerud [aut, cre]
 Maintainer: Max Goplerud <mgoplerud@pitt.edu>
 Repository: CRAN
-Date/Publication: 2023-04-17 10:30:02 UTC
+Date/Publication: 2023-04-20 09:20:05 UTC

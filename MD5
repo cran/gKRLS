@@ -1,5 +1,6 @@
-a53177017b5b2a5f3ac6b325c82734d0 *DESCRIPTION
+c6d9e3c1c90bd364272024e2e260744d *DESCRIPTION
 2a04f3cbda0dbc2705debfe0db715392 *NAMESPACE
+de8ed294ed0d74584c5c10ff843cbbd6 *NEWS.md
 f3faf013bd1cbe9559a7320230a8c728 *R/AME_function.R
 a883a52d15b476a3165f5da593a6573b *R/RcppExports.R
 3f0cf7fe7e8ad2955f04d7616c5d0280 *R/generic_function.R
@@ -9,7 +10,7 @@ cfbf4e0c3ed62ff687a7726620091c89 *R/internal_grad_function.R
 64e375eb9b96e0feea16e3a22eac1be7 *R/mfx_function.R
 6993ebbe682302a486ce9d9479fa76c8 *R/mgcv_function.R
 a9883a3a80b055de059cbff15e60a35f *R/ml_function.R
-e20d16ef6a2fa6f9d7fd139732458897 *README.md
+014d02bfe7dfdad5dd6903d4a7d4af77 *README.md
 b35729cf9f2eb098bc26f2e89c6f678c *man/Predict.matrix.gKRLS.smooth.Rd
 3f7f555c3cf0bcb757e8241f9cb04b92 *man/calculate_effects.Rd
 d13a2c3e5ddb4bc242ba8189c193530d *man/create_sketched_kernel.Rd
@@ -22,7 +23,7 @@ e1daf5be647eb9d25a84544105fe66b3 *man/mlr3_gKRLS.Rd
 ac8b27c8df9bf4e0590cb16fff7d4f67 *src/RcppExports.cpp
 a0d0dcceb63078ef610ff9b2732b5bf2 *src/calc_kernel.cpp
 94a1526c4b569bf1e606acc18c68aca6 *src/calc_kernel.h
-b1720e93360dd4b6488024df49925c80 *src/marginal_effects.cpp
+51735f6bc13f633fa7e7d0c7b0027a0a *src/marginal_effects.cpp
 2d7504222f164a2f8091cf066272c4a1 *src/sketch_kern.cpp
 85b5d57d4c0c97085ff029d56d60a5e4 *tests/testthat.R
 cde8d3e86bf7cc76903562f1b17eeb65 *tests/testthat/test_DML.R
