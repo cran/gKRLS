@@ -1,6 +1,6 @@
-06aeeb6cc369b2f310c9202897d6d590 *DESCRIPTION
+39f920dc4cf813d3329203bb6c939849 *DESCRIPTION
 237ab501aacce46a103d00b1067271a2 *NAMESPACE
-8564d736fc3c90e920aa055e964483f9 *NEWS.md
+fbcd87ef9d076d781d1529bf505c0fb5 *NEWS.md
 af96338886d8deaa0b215f6f9bd366f4 *R/AME_function.R
 bfb5baf957753a1f51554b869b568c1a *R/RcppExports.R
 3f0cf7fe7e8ad2955f04d7616c5d0280 *R/generic_function.R
@@ -11,7 +11,7 @@ cfbf4e0c3ed62ff687a7726620091c89 *R/internal_grad_function.R
 ed3bb241cedc52700de7a3ea2316adfb *R/mgcv_function.R
 2d9792606890114911450f5d65b42a4b *R/ml_function.R
 735e8eef0d0a3116d35cdda6689edff2 *README.md
-b54db8794555342c4feee5fe0b1b8f5b *build/partial.rdb
+1dda19015f0aa969acee990c150e3ac9 *build/partial.rdb
 b35729cf9f2eb098bc26f2e89c6f678c *man/Predict.matrix.gKRLS.smooth.Rd
 10be813d8292ed2a0518569524d0e94d *man/calculate_effects.Rd
 1d15ed15011594a057698138537e89ba *man/create_sketched_kernel.Rd
@@ -19,7 +19,7 @@ d3a3886a01505909f0099cd5bf8c5f83 *man/estfun.gam.Rd
 0bb4208224d4565e67f4e7acf99199b4 *man/gKRLS.Rd
 d4014f297ebf1897c64f9f54405a9a45 *man/legacy_marginal_effect.Rd
 fe3fccd78b167085d17e4f07a3250ffe *man/ml_gKRLS.Rd
-e1daf5be647eb9d25a84544105fe66b3 *man/mlr3_gKRLS.Rd
+71fc9a41056d1e111ff37610a51cbfc9 *man/mlr3_gKRLS.Rd
 09563e63d5197500cbe1e624b4f1842f *man/smooth.construct.gKRLS.smooth.spec.Rd
 b621b9312bde485616e0fe36d264471f *src/RcppExports.cpp
 8ddedda8c778dac3f2c9e2f5b228799a *src/calc_kernel.cpp
@@ -28,7 +28,8 @@ b621b9312bde485616e0fe36d264471f *src/RcppExports.cpp
 4cd0ec1c9fe45b851d185db0991c7204 *src/sketch_kern.cpp
 85b5d57d4c0c97085ff029d56d60a5e4 *tests/testthat.R
 cde8d3e86bf7cc76903562f1b17eeb65 *tests/testthat/test_DML.R
-1e20247459df438a19379a3e4372c396 *tests/testthat/test_basic_kernel.R
+c1d27a531dbadd57903a06a93d41477e *tests/testthat/test_aaa.R
+1c89946fec11cb3d5de44924a0e7e7b5 *tests/testthat/test_basic_kernel.R
 ea18cc2bd55c92c54174f1b90d3cefc0 *tests/testthat/test_calibration.R
 4933e99b73cacbe04fbaab6a1d01c49a *tests/testthat/test_complex.R
 6b69e8f2151e789a793c484791f57054 *tests/testthat/test_factor_kernel.R
@@ -37,4 +38,4 @@ ea18cc2bd55c92c54174f1b90d3cefc0 *tests/testthat/test_calibration.R
 c661a16340ba35a11a97a6d8272cbb58 *tests/testthat/test_limitations.R
 6b9a5786110517b8dbdca73fd16a4109 *tests/testthat/test_match_krls.R
 8b768e9e5777775714efc5494cd37e29 *tests/testthat/test_mfx.R
-080247b4488434777f01773a3434da0d *tests/testthat/test_se.R
+e05e6c5e7ba533f0327f40082ee2d716 *tests/testthat/test_se.R

@@ -1,11 +1,11 @@
 Package: gKRLS
 Type: Package
 Title: Generalized Kernel Regularized Least Squares
-Version: 1.0.3
-Date: 2024-09-02
+Version: 1.0.4
+Date: 2024-11-07
 Encoding: UTF-8
 Authors@R: c(
-  person("Qing", "Chang", role = c("aut"), email = "qic47@pitt.edu"),
+  person("Qing", "Chang", role = c("aut"), email = "qic108@pitt.edu"),
   person("Max", "Goplerud", role = c("aut", "cre"), email = "mgoplerud@austin.utexas.edu"))
 License: GPL (>= 2)
 Description: Kernel regularized least squares, also known as kernel ridge regression, 
@@ -25,9 +25,9 @@ RoxygenNote: 7.3.2
 NeedsCompilation: yes
 URL: https://github.com/mgoplerud/gKRLS
 BugReports: https://github.com/mgoplerud/gKRLS/issues
-Packaged: 2024-09-04 13:23:42 UTC; mg68977
+Packaged: 2024-11-07 22:05:11 UTC; Max
 Author: Qing Chang [aut],
   Max Goplerud [aut, cre]
 Maintainer: Max Goplerud <mgoplerud@austin.utexas.edu>
 Repository: CRAN
-Date/Publication: 2024-09-04 14:00:02 UTC
+Date/Publication: 2024-11-07 22:30:02 UTC
