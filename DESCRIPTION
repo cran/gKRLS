@@ -1,8 +1,8 @@
 Package: gKRLS
 Type: Package
 Title: Generalized Kernel Regularized Least Squares
-Version: 1.0.4
-Date: 2024-11-07
+Version: 1.0.5
+Date: 2026-11-02
 Encoding: UTF-8
 Authors@R: c(
   person("Qing", "Chang", role = c("aut"), email = "qic108@pitt.edu"),
@@ -21,13 +21,13 @@ Imports: Rcpp (>= 1.0.6), Matrix, mlr3, R6
 Depends: mgcv, sandwich (>= 2.4.0)
 Suggests: SuperLearner, mlr3misc, DoubleML, testthat
 SystemRequirements: GNU make
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 NeedsCompilation: yes
 URL: https://github.com/mgoplerud/gKRLS
 BugReports: https://github.com/mgoplerud/gKRLS/issues
-Packaged: 2024-11-07 22:05:11 UTC; Max
+Packaged: 2026-11-02 21:36:14 UTC; mg68977
 Author: Qing Chang [aut],
   Max Goplerud [aut, cre]
 Maintainer: Max Goplerud <mgoplerud@austin.utexas.edu>
 Repository: CRAN
-Date/Publication: 2024-11-07 22:30:02 UTC
+Date/Publication: 2026-11-02 22:30:02 UTC
